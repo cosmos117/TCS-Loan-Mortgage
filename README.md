@@ -192,7 +192,7 @@ python main.py evaluate               # answer accuracy with the real models (~1
 
 ## Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cosmos117/Automated-Mortgage-Loan-System/blob/feature/full-pipeline/Mortgage_Loan_System_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cosmos117/TCS-Loan-Mortgage/blob/main/Mortgage_Loan_System_Colab.ipynb)
 
 [Mortgage_Loan_System_Colab.ipynb](Mortgage_Loan_System_Colab.ipynb) runs the
 whole system in the browser, with nothing to install on your computer:
